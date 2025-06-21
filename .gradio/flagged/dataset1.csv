@@ -1,0 +1,3 @@
+Square ID,Giờ (0–23),Ngày trong tuần,Dự báo 24h tới (mỗi 10 phút),timestamp
+1959,22,Thứ hai,"{""headers"": [""1"", ""2"", ""3""], ""data"": [], ""metadata"": null}",2025-06-21 16:29:30.123350
+222,12,Thứ ba,"{""headers"": [""1"", ""2"", ""3""], ""data"": [], ""metadata"": null}",2025-06-21 16:35:06.505669
