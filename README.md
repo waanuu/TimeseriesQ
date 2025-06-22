@@ -1,4 +1,4 @@
-# 🌟 Dự báo lan truyền dịch bệnh từ dữ liệu di chuyển và tin tức
+# 🌟 Dự báo tải mạng quy mô quốc gia
 
 ## 📌 Mô tả đề tài
 
