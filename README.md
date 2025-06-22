@@ -5,16 +5,11 @@
 Dự án sử dụng mô hình LSTM, XGBoost, TFT rồi so sánh giữa các mô hình để dự báo hoạt động viễn thông như SMS, cuộc gọi và lưu lượng Internet trong từng "Square ID" tại các khung giờ trong tuần, dựa trên dữ liệu thời gian thực.
 
 ## 📂 Cấu trúc thư mục chung: `TIMESERIES_NHOM5/`
-📁 data
-└── Dữ liệu tải mạng
-📁 DEMO
-└── demo ứng dụng
-📁 CodeModels
-└── Xây dựng và huấn luyện mô hình
-📁 models/
-└── Thư mục chứa model đã huấn luyện (.pth)
-📄 README.md
-└── Tài liệu mô tả dự án
+- data :  Dữ liệu tải mạng
+- DEMO :  demo ứng dụng
+- CodeModels :  Xây dựng và huấn luyện mô hình
+- models  :  Thư mục chứa model đã huấn luyện (.pth)
+- README.md : Tài liệu mô tả dự án
 
 
 ## 🧱 Cấu trúc thư mục DEMO `demo/`
